@@ -11,7 +11,7 @@ fullimage: /img/artwork/bearhoodweb.jpg
       <col style="width:50%"/>
   </colgroup>
   <tr>
-  <td><h4>Watercolour and ink on paper 18&Prime; &times; 24&Prime;</h4><br/><br/><h4>he girl has become a woman, and has lost interest.</h4></td>
+  <td><h4>Watercolour and ink on paper 18&Prime; &times; 24&Prime;</h4><br/><br/><h4>The girl has become a woman, and has lost interest.</h4></td>
     <td rowspan="2"><img src="{{ page.fullimage | prepend: site.baseurl | prepend: site.url }}" alt="squeeze" height="400" title="Squeeze"></td>
   </tr>
 </table>
