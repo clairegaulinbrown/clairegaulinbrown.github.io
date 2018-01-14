@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: fine art
 permalink: /portfolio/
 ---
 
